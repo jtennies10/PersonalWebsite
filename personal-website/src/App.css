@@ -4,3 +4,7 @@
   padding: 2rem;
   text-align: center;
 }
+
+.logo {
+  max-width: 20vw;
+}
